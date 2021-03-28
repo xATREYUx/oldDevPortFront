@@ -1,0 +1,13 @@
+.image-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(129px, 1fr));
+  grid-gap: 2px 1px;
+  grid-auto-rows: 10;
+}
+
+.image-list img {
+  width: 130px;
+}
+.unsplashSearchContainer {
+  /* margin-top: 10px; */
+}
