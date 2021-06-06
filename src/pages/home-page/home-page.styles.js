@@ -6,7 +6,7 @@ export const HomePageContainer = styled.div`
   flex-direction: column;
   align-items: center;
 
-  min-height: 2000px;
+   min-height: 2000px;
   /* background-color: #fff; */
   /* height: 150vh; */
   width: 100vw;
